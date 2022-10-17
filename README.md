@@ -1,4 +1,4 @@
-"><script>alert(123)</script>
+Dom xss test
 ===
 
 dom xss
